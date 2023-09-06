@@ -17,6 +17,11 @@ public class HiFour {
 		String s2 = in.nextLine();
 		System.out.print("Enter value for arg 3: ");
 		String s3 = in.nextLine();
+		System.out.println("hello " + s0 + ", hello " + s1 + ", hello " + s2 + ", and hello " + s3 + ".");
+
+		
+
+
 		//
 		// Say hello to the names in s0 through s3.
 		//
